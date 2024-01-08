@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>꧁❀P༒J❀꧂</title>
+    <link>https://pj-one.github.io/PJone/</link>
+    <description>Recent content on ꧁❀P༒J❀꧂</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC PJ CHINA 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://pj-one.github.io/PJone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>提交信息</title>
+      <link>https://pj-one.github.io/PJone/posts/2024/01/%E6%8F%90%E4%BA%A4%E4%BF%A1%E6%81%AF/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pj-one.github.io/PJone/posts/2024/01/%E6%8F%90%E4%BA%A4%E4%BF%A1%E6%81%AF/</guid>
+      <description>hugo &amp;ndash;theme=hello-friend-ng &amp;ndash;baseURL=&amp;ldquo;https://pj-one.github.io/PJone/&amp;quot; &amp;ndash;buildDrafts&#xA;上传文档到 git cd public git init ##初始化仓库 git remote add origin https://github.com/PJ-One/PJone.git ##链接远程仓库 git add . git commit -m &amp;#34;提交信息&amp;#34; git push -u origin master 如果报错：git remote set-url origin https://github.com/PJ-One/PJone.git usage: git remote remove &amp;lt;name&amp;gt; git remote remove origin unable to access..Failure when receiving data from the peer //取消http代理 git config --global --unset http.proxy //取消https代理 git config --global --unset https.proxy </description>
+    </item>
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>https://pj-one.github.io/PJone/posts/2014/03/migrate-to-hugo-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://pj-one.github.io/PJone/posts/2014/03/migrate-to-hugo-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like&#xA;▾ &amp;lt;root&amp;gt;/&#xD;▾ images/&#xD;logo.png&#xD;should become&#xA;▾ &amp;lt;root&amp;gt;/&#xD;▾ static/&#xD;▾ images/&#xD;logo.png&#xD;Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    <item>
+      <title>pdm记录</title>
+      <link>https://pj-one.github.io/PJone/posts/2024/01/pdm%E8%AE%B0%E5%BD%95/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pj-one.github.io/PJone/posts/2024/01/pdm%E8%AE%B0%E5%BD%95/</guid>
+      <description>这是第一篇文章 今天准备试一试pdm包管理器,是升哥发我的,趁现在写这个就看下&#xA;pip install pdm GitHub - pdm-project/pdm: A modern Python package and dependency manager supporting the latest PEP standards&#xA;来了！划时代的 Python 包管理工具 &amp;ndash; PDM - 知乎 (zhihu.com)</description>
+    </item>
+    <item>
+      <title>ME</title>
+      <link>https://pj-one.github.io/PJone/about/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pj-one.github.io/PJone/about/</guid>
+      <description>身作方舟，魂渡彼岸&#xA;确保处于可用状态&#xA;https://i.postimg.cc/25KdRJBs/WX.png https://www.tiktok.com/@pjinus_en?_t=8imGr9tR8oi&amp;amp;_r=1 https://www.facebook.com/zhaopengjuvip https://i.postimg.cc/QdWhJKJc/QQ.png 如果想请我喝茶，请联系我。</description>
+    </item>
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>https://pj-one.github.io/PJone/posts/2014/04/hugo-template-primer/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://pj-one.github.io/PJone/posts/2014/04/hugo-template-primer/</guid>
+      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.&#xA;This document is a brief primer on using Go templates.</description>
+    </item>
+  </channel>
+</rss>
