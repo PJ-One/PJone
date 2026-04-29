@@ -83,7 +83,7 @@ def get_verify_bt_opencv(background, target):
         t长度：193
     搜索参数challenge，找到一处位置，打断点，
 
-![](.\images\fangtianxia\i的位置.png)
+![](.\images\fangtianxia\i.png)
 
     start/end是滑动轨迹生成的时间大数组初/末。
     end - start = 轨迹耗时
