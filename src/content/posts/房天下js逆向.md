@@ -83,7 +83,7 @@ def get_verify_bt_opencv(background, target):
         t长度：193
     搜索参数challenge，找到一处位置，打断点，
 
-![](.\images\fangtianxia\i.png)
+![](./images/fangtianxia/i.png)
 
     start/end是滑动轨迹生成的时间大数组初/末。
     end - start = 轨迹耗时
@@ -119,7 +119,7 @@ i: x.compress(function(e) {
         输出：很长的十六进制字符串（小写）
 --------------------------------------------------------
     在分析t的函数，流程如下：
-![](.\images\fangtianxia\t.png)
+![](./images/fangtianxia/t.png)
 
         轨迹数组 e[]
             ↓
