@@ -2,8 +2,8 @@
 title: 某天下js逆向
 published: 2024-06-01
 description: 房天下js逆向
-image: './images/shuai.gif'
-tags: [随笔]
+image: ''
+tags: [web]
 category: 爬虫
 draft: false
 ---
