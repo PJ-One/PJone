@@ -4,7 +4,7 @@ published: 2025-06-01
 description: docker 常用命令
 image: ''
 tags: [随笔]
-category: 生活
+category: 随笔
 draft: false
 ---
 
