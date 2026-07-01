@@ -3,7 +3,7 @@ title: sing-box工具搭建VPN
 published: 2024-11-05
 description: 搭建VPN
 image: ''
-tags: [随笔]
+tags: [VPN]
 category: 随笔
 draft: false
 ---
