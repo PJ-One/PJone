@@ -167,8 +167,8 @@ def get_verify_bt_opencv(background, target):
 
 `check` 接口的核心是加密的 `data` 字段：
 
-![check 参数 1](./images/wangyiyidun/img1.png)
-![check 参数 2](./images/wangyiyidun/img2.png)
+![check 参数 1](./images/wangyiyidun/img_1.png)
+![check 参数 2](./images/wangyiyidun/img_2.png)
 
 ### 4.1 data 的五段结构
 
