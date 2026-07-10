@@ -1,6 +1,6 @@
 ---
 title: 今日头条逆向：msToken + a_bogus 流程
-published: 2025-07-11
+published: 2026-07-11
 description: jsdom 补环境,生成 msToken + 签 a_bogus，输出完整签名 URL,纯 requests，sign_feed()+feed() 拿 JSON
 image: ''
 tags: [逆向]
