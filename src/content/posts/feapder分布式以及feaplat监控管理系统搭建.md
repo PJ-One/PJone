@@ -1,6 +1,6 @@
 ---
 title: feapder分布式以及feaplat监控管理系统搭建
-published: 2027-07-13
+published: 2026-07-13
 description: feapder分布式以及feaplat监控管理系统搭建
 image: ''
 tags: [随笔]
